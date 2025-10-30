@@ -1,0 +1,28 @@
+Enter the size (n) of the queue: 5
+Circular Queue of size 5 created.
+
+--- Let's add some items to the queue ---
+Enqueued 10.
+Enqueued 20.
+Enqueued 30.
+
+Current Queue: 10 20 30 
+
+--- Deleting an element (Dequeue) ---
+Deleted element is: 10
+
+Current Queue after deletion: 20 30 
+
+--- Adding more items ---
+Enqueued 40.
+Enqueued 50.
+Current Queue: 20 30 40 50 
+
+--- Deleting and adding to test wrap-around ---
+Enqueued 60.
+Current Queue (after wrap-around): 30 40 50 60 
+
+Queue memory freed.
+
+
+=== Code Execution Successful ===
