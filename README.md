@@ -1,0 +1,1 @@
+This C program provides a dynamic implementation of a circular queue. It allows the user to define the queue's size (n) at runtime. The code demonstrates the core operations: creating the queue, adding elements (enqueue), and removing/displaying elements (dequeue), all while correctly managing the front and rear pointers for wrap-around.
